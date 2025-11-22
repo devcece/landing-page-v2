@@ -1620,7 +1620,11 @@ footer {
 
 .chatbot-header {
   padding: var(--spacing-lg);
-  background: linear-gradient(135deg, var(--color-yellow) 0%, var(--color-black) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--color-yellow) 0%,
+    var(--color-black) 100%
+  );
   color: var(--color-white);
   border-radius: 12px 12px 0 0;
   display: flex;
@@ -1724,7 +1728,7 @@ footer {
 }
 
 #chatbot-send:hover {
-  background-color: #FFD400;
+  background-color: #ffd400;
   transform: translateY(-2px);
   box-shadow: 0 2px 8px rgba(255, 212, 0, 0.3);
 }
