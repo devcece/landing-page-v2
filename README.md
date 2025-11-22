@@ -1,7 +1,7 @@
 # Wajenzi
 
-## Subtitle
+## Team members
 
-- Benard Ogutu
+- Benard Ogutu - benardogutu65@gmail.com
 -
 -
